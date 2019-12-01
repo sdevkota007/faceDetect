@@ -1,0 +1,8 @@
+{'filename1': {
+  'boxes': [[xmin, ymin, xmax, ymax],...,[xmin, ymin, xmax, ymax]],
+  'scores': [0.98,0.99]},
+ 'filename2': {
+   'boxes': [[xmin, ymin, xmax, ymax],...,[xmin, ymin, xmax, ymax]],
+   'scores': [score1,...,scoreN]},
+...
+}

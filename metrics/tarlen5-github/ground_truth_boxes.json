@@ -1,0 +1,4 @@
+{"filename1": [[xmin, ymin, xmax, ymax],...,[xmin, ymin, xmax, ymax]],
+"filename2": [...],
+...
+}
